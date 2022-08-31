@@ -1,0 +1,2 @@
+api_key = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NJRCI6IjFlNzMyYjBhLWYyZGMtNGVkNi1hYWQ1LTNjYWI2YWFlY2E0YyJ9.Hr5lcjy_N2giv-pAfrrwDgfxp6nf8oo3-2muR3hMoHY'
+module.exports = api_key
